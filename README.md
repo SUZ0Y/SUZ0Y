@@ -16,7 +16,7 @@
 <h3 align="left">Social Media</h3>
 <p align="left">
   <a href="https://guns.lol/gore.core" target="_blank" rel="noopener noreferrer">
-    <img src="https://assets.guns.lol/favicon/apple-touch-icon.png" alt="Gore Core" height="60" width="60" />
+    <img src="https://assets.guns.lol/favicon/apple-touch-icon.png" alt="Gore Core" height="40" width="40" />
   </a>
 </p>
 
