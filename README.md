@@ -25,7 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suz0y&show_icons=true&locale=en&layout=compact" alt="suz0y" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suz0y&show_icons=true&locale=en" alt="suz0y" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suz0y&theme=default" alt="suz0y" /></p>
 
