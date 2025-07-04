@@ -9,11 +9,11 @@
 ![3dgif](https://github.com/user-attachments/assets/552ffcdf-2312-4881-8e2e-e17976914bda)
 
 
-<h3 align="left">About me</h3>
+<h3 align="center">About me</h3>
 <h1 align="center">Yo, am GoreCore</h1>
 <h3 align="center">started programming about 2 years ago</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suz0y&label=Profile%20views&color=613583&style=flat" alt="suz0y" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=suz0y&label=Profile%20views&color=613583&style=flat" alt="suz0y" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
