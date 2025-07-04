@@ -57,8 +57,8 @@
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ALX-13&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALX-13&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SUZ0Y&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUZ0Y&theme=nightowl&hide_border=false" alt="SUZ0Y streak" />
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ALX-13&theme=nightowl&hide_border=false&langs_count=10"/>
