@@ -61,18 +61,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUZ0Y&theme=nightowl&hide_border=false" alt="SUZ0Y streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ALX-13&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SUZ0Y&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
 </p>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suz0y&show_icons=true&locale=en&layout=compact" alt="suz0y" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suz0y&theme=default" alt="suz0y" /></p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
