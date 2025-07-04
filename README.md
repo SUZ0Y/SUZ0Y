@@ -1,6 +1,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-![ezgif-4f0d1ce189d88b](https://github.com/user-attachments/assets/d755d2ab-457c-499b-9f61-83181ec7f79c)
+![Uploading Dein Abschnittstext (1).gif…]()
+
+
+![3D_1-ezgif com-optimize](https://github.com/user-attachments/assets/552ffcdf-2312-4881-8e2e-e17976914bda)
+
 
 
 <h1 align="center">Yo, am GoreCore</h1>
