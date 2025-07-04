@@ -1,12 +1,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-![Dein Abschnittstext (1)](https://github.com/user-attachments/assets/af3e959f-cb5f-4c21-8d95-bda14a3bf049)
+![test](https://github.com/user-attachments/assets/af3e959f-cb5f-4c21-8d95-bda14a3bf049)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
 
 
 
-![3D_1-ezgif com-optimize](https://github.com/user-attachments/assets/552ffcdf-2312-4881-8e2e-e17976914bda)
+![3dgif](https://github.com/user-attachments/assets/552ffcdf-2312-4881-8e2e-e17976914bda)
 
 
 <h3 align="left">About me</h3>
