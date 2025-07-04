@@ -1,6 +1,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-![Uploading Dein Abschnittstext (1).gif…]()
+![Dein Abschnittstext (1)](https://github.com/user-attachments/assets/af3e959f-cb5f-4c21-8d95-bda14a3bf049)
 
 
 ![3D_1-ezgif com-optimize](https://github.com/user-attachments/assets/552ffcdf-2312-4881-8e2e-e17976914bda)
