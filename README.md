@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-![test](https://github.com/user-attachments/assets/af3e959f-cb5f-4c21-8d95-bda14a3bf049)
+![Dein Abschnittstext (1)](https://github.com/user-attachments/assets/b3f56ef5-e985-4fcf-bea4-f28e4dabc0bc)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
