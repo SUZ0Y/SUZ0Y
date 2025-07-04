@@ -1,3 +1,8 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+![ezgif-4f0d1ce189d88b](https://github.com/user-attachments/assets/d755d2ab-457c-499b-9f61-83181ec7f79c)
+
+
 <h1 align="center">Yo, am GoreCore</h1>
 <h3 align="center">started programming about 2 years ago</h3>
 
@@ -10,7 +15,7 @@
 <a href="https://stackoverflow.com/users/blank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="blank" height="30" width="40" /></a>
 <a href="https://kaggle.com/blank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="blank" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/blank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="blank" height="30" width="40" /></a>
-<a href="https://discord.gg/users/gore.core" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/gore.core" height="30" width="40" /></a>
+<a href="https://discord.gg/users/546022420486815774/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/gore.core" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Social Media</h3>
