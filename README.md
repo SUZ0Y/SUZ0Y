@@ -1,5 +1,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-![DeinAbschnittstext1-ezgif com-optimize](https://github.com/user-attachments/assets/9f096957-8863-4320-ac28-4172df9ccd7e)
+
+![DeinAbschnittstext1-ezgif com-optimize](https://github.com/user-attachments/assets/9f096957-8863-4320-ac28-4172df9ccd7e) 
+<img src="hhttps://github.com/user-attachments/assets/9f096957-8863-4320-ac28-4172df9ccd7e" width="100%">
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
